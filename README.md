@@ -124,7 +124,7 @@ cloud-security-90days/
 
 - 📺 YouTube: [@Techguidewitharby]
 - 🐙 GitHub: [@Arbythecoder](https://github.com/Arbythecoder)
-- 📸 Instagram: [@yourhandle]
+- 📸 Instagram: [@techguidewitharby]
 - 📝 Blog: [Dev](https://dev.to/arbythecoder)
 - 💌 Weekly progress updates posted here and on socials
 
