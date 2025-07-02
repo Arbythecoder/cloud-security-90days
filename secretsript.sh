@@ -1,0 +1,1 @@
+echo 🔐 My secret script
