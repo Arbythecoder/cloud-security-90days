@@ -1,9 +1,3 @@
-# Week 3
-Perfect! Here's your full beginner-friendly `week3/README.md` for **IAM + Terraform on AWS** — written **as if you're teaching absolute beginners**:
-
----
-
-### ✅ Save this as: `week3/README.md`
 
 ````md
 # 🌩️ Week 3 – IAM + Terraform on AWS
